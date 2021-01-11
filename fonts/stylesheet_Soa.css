@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'BigShouldersStencilText-Bold';
+    src: url('BigShouldersStencilText-Bold.eot');
+    src: url('BigShouldersStencilText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BigShouldersStencilText-Bold.woff2') format('woff2'),
+        url('BigShouldersStencilText-Bold.woff') format('woff'),
+        url('BigShouldersStencilText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
